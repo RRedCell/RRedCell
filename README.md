@@ -1,6 +1,9 @@
-## Hi there 👋 This is RRedCell
+## Hi there 👋 This is RRedCell (Also named SigewinneCeller or StrangeLee)
 
-<!--
+It's my honor to witness your visit, dear my
+![](https://count.getloli.com/@RRedCell?name=RRedCell&theme=booru-ffsr&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+visitors!
+
 **RRedCell/RRedCell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
