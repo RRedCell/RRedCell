@@ -5,7 +5,7 @@ You can also named me as SigewinneCeller or StrangeLee.
 While the former is linked to my avatar, the latter is a more idiomatic translation of my real name.
 
 It's my honor to witness your visit.
-![](https://count.getloli.com/@RRedCell?name=RRedCell&theme=booru-ffsr&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@RRedCell?name=RRedCell&theme=booru-ffsr&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto) 
 
 A junior major in clinical medicine, not computer.
 
