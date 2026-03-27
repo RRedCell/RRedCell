@@ -10,3 +10,4 @@ It's my honor to witness your visit.
 A junior major in clinical medicine, major in some small features in Xiaomi devices.
 
 My current devices on work:
+https://img.shields.io/badge/Xiaomi%2010%20TPro-FD4900
