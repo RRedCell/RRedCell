@@ -10,5 +10,6 @@ It's my honor to witness your visit.
 A junior major in clinical medicine, major in some small features in Xiaomi devices.
 
 My current devices on work:
+
 ![Xiaomi 10T Pro]
-(https://img.shields.io/badge/Xiaomi%2010T%20Pro-FD4900)
+(https://img.shields.io/badge/Xiaomi%2010T%20Pro-FD4900).
