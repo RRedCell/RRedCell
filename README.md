@@ -12,3 +12,6 @@ A junior major in clinical medicine, major in some small features in Xiaomi devi
 My current devices on work:
 
 ![Xiaomi 10T Pro](https://img.shields.io/badge/Xiaomi%2010T%20Pro-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 12T Pro](https://img.shields.io/badge/Xiaomi%2012T%20Pro-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 14 Ultra Ti](https://img.shields.io/badge/Xiaomi%2014T%20Ultra%20Ti-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017T%20Pro%20Max-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
