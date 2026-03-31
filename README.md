@@ -21,6 +21,7 @@ My current devices on work:
 ![Xiaomi 14 Ultra Ti](https://img.shields.io/badge/Xiaomi%2014%20Ultra%20Ti-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Redmi K30 5G](https://img.shields.io/badge/Redmi%20K30%205G-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![iPad Pro 2022 12.9](https://img.shields.io/badge/iPad%20Pro%202022%2012.9-3A3B3C?style=flat-square&logo=apple&logoColor=ffffff)
 
 I'm glad to make good friends with you.
 
